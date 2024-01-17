@@ -21,7 +21,6 @@ end
 local MyTank = LoadModule("Objects/Player1.lua")
 local Bullet = LoadModule("Objects/Bullet.lua")
 local Enemy = LoadModule("Objects/Enemy.lua")
---local Trojan = LoadModule("/Trojan.lua")
 local Block = LoadModule("Objects/Block.lua")
 
 local GUI = require("GUI")
